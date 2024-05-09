@@ -19,7 +19,7 @@
 * [Métodos](https://glysns.gitbook.io/java-basico/sintaxe/metodos)
 * [Escopo](https://glysns.gitbook.io/java-basico/sintaxe/escopo)
 * [Palavras Reservadas](https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas)
-* [Documentação]
+* [Documentação](https://glysns.gitbook.io/java-basico/sintaxe/documentacao)
 * [Terminal e Argumentos]
 
 ### Controle de Fluxo
