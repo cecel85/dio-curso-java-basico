@@ -40,7 +40,7 @@
 * [Aula 2 - Anatomia de Classes](https://github.com/cecel85/dio-curso-java-basico/tree/main/aula2-anatomia-classes)
 * [Aula 3 - Tipos e Variáveis](https://github.com/cecel85/dio-curso-java-basico/tree/main/aula3-tipos-variaveis)
 * [Aula 4 - Operadores](https://github.com/cecel85/dio-curso-java-basico/tree/main/aula4-operadores)
-* [Aula 5 - Métodos]
+* [Aula 5 - Métodos - Exercício SmartTv](https://github.com/cecel85/dio-curso-java-basico/tree/main/sistema-smart-tv)
 * [Aula 6 - Escopo]
 * [Aula 7 - Palavras Reservadas]
 * [Aula 8 - Documentação]
