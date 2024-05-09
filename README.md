@@ -18,7 +18,7 @@
 * [Operadores](https://glysns.gitbook.io/java-basico/sintaxe/operadores)
 * [Métodos](https://glysns.gitbook.io/java-basico/sintaxe/metodos)
 * [Escopo](https://glysns.gitbook.io/java-basico/sintaxe/escopo)
-* [Palavras Reservadas]
+* [Palavras Reservadas](https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas)
 * [Documentação]
 * [Terminal e Argumentos]
 
