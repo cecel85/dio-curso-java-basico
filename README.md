@@ -17,7 +17,7 @@
 * [Tipos e Variáveis](https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes)
 * [Operadores](https://glysns.gitbook.io/java-basico/sintaxe/operadores)
 * [Métodos](https://glysns.gitbook.io/java-basico/sintaxe/metodos)
-* [Escopo]
+* [Escopo](https://glysns.gitbook.io/java-basico/sintaxe/escopo)
 * [Palavras Reservadas]
 * [Documentação]
 * [Terminal e Argumentos]
