@@ -20,7 +20,7 @@
 * [Escopo](https://glysns.gitbook.io/java-basico/sintaxe/escopo)
 * [Palavras Reservadas](https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas)
 * [Documentação](https://glysns.gitbook.io/java-basico/sintaxe/documentacao)
-* [Terminal e Argumentos]
+* [Terminal e Argumentos](https://glysns.gitbook.io/java-basico/sintaxe/terminal-e-argumentos)
 
 ### Controle de Fluxo
 
@@ -41,8 +41,5 @@
 * [Aula 3 - Tipos e Variáveis](https://github.com/cecel85/dio-curso-java-basico/tree/main/aula3-tipos-variaveis)
 * [Aula 4 - Operadores](https://github.com/cecel85/dio-curso-java-basico/tree/main/aula4-operadores)
 * [Aula 5 - Métodos - Exercício SmartTv](https://github.com/cecel85/dio-curso-java-basico/tree/main/sistema-smart-tv)
-* [Aula 6 - Escopo]
-* [Aula 7 - Palavras Reservadas]
-* [Aula 8 - Documentação]
-* [Aula 9 - Terminal e Argumentos]
-* [Aula 10 - ]
+* [Aula 8 - Documentação](https://github.com/cecel85/dio-curso-java-basico/tree/main/aula8-documentacao)
+* [Aula 9 - Terminal e Argumentos](https://github.com/cecel85/dio-curso-java-basico/tree/main/aula9-terminal-e-argumentos)
